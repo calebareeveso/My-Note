@@ -117,7 +117,7 @@ if(list.contains(editbtn)){
   savebtn.style.display="block";
   editbtn.style.display="none";
   exitbtn.style.display="none";
-  list.style.paddingTop="15vh";
+  list.style.paddingTop="15%";
  list.contentEditable = true;
  savebtn.contentEditable = false;
  exitbtn.contentEditable = false;
@@ -164,7 +164,7 @@ if(list.contains(deletebtn)){
    list.style.margin="0";
    list.style.padding="0";
    list.style.borderRadius="0";
-   list.style.paddingTop="15vh";
+   list.style.paddingTop="15%";
    editbtn.style.display="block";
    exitbtn.style.display="block";
    list.style.zIndex="999";
