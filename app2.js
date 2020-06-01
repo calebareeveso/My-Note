@@ -163,7 +163,7 @@ if(list.contains(deletebtn)){
    list.style.margin="0";
    list.style.padding="0";
    list.style.borderRadius="0";
-   list.style.paddingTop="12%";
+   list.style.paddingTop="20%";
    editbtn.style.display="block";
    exitbtn.style.display="block";
    list.style.zIndex="999";
