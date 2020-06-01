@@ -353,7 +353,7 @@
      right:0px;
      width:auto;
      display:none;
-     font-size:1.5rem;
+     font-size:1rem;
      padding:1px 30px;
      background: inherit;
      border:none;
@@ -377,7 +377,7 @@
      color:#000;
      cursor: pointer;
      margin-left: 5px;
-     font-size:1.5rem;
+     font-size:1rem;
      transform: rotate(180deg);
      outline: none;
     }
@@ -390,7 +390,7 @@
      padding:1px 8px;
      background:inherit;
      border:none;
-     font-size:1.5rem;
+     font-size:1rem;
      color:#000;
      cursor: pointer;
      outline: none;
